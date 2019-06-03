@@ -14,12 +14,12 @@ Vue.config.productionTip = false;
 
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyDzan4zJjW0xravZ1tkI-lHYID7y4XVtAw",
-    authDomain: "exceptos-store.firebaseapp.com",
-    databaseURL: "https://exceptos-store.firebaseio.com",
-    projectId: "exceptos-store",
-    storageBucket: "exceptos-store.appspot.com",
-    messagingSenderId: "808832599911"
+  apiKey: "AIzaSyCz6-aTJ_zYPnlDpbd42BMFkw36980Mi-s",
+  authDomain: "embryo-12.firebaseapp.com",
+  databaseURL: "https://embryo-12.firebaseio.com",
+  projectId: "embryo-12",
+  storageBucket: "embryo-12.appspot.com",
+  messagingSenderId: "664938298373"
 };
 firebase.initializeApp(config);
 
